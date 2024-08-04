@@ -1,11 +1,12 @@
-
+import { Button } from 'antd-mobile'
 
 function App() {
 
   return (
     <>
       <div>
-        Hello
+        <Button color='success'>删除</Button>
+        
       </div>
     </>
   )
